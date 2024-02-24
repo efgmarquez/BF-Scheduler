@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "defs.h": "c",
+    "types.h": "c",
+    "skiplist.h": "c",
+    "param.h": "c",
+    "limits": "c",
+    "user.h": "c",
+    "proc.h": "c",
+    "fcntl.h": "c",
+    "stat.h": "c",
+    "spinlock.h": "c",
+    "x86.h": "c",
+    "memlayout.h": "c"
+  }
+}
